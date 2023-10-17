@@ -4,6 +4,6 @@ The Women in GovTech Community aims to create a supportive community for young p
 
 :incoming_envelope: womeningovtech@gmail.com
 
-[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&labelColor=white&color=white)](https://discord.gg/4yYDWd45)
+[![Discord](https://img.shields.io/badge/Discord-%230077B5.svg?logo=discord&labelColor=white&color=white)](https://discord.gg/DysV77sywW)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/14271098/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCpkSHyMkvssYBpwmlTlnqhA)
